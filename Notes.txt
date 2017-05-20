@@ -1,0 +1,15 @@
+Created Saturday 20 May 2017
+Open Source
+Author Phil Branigan
+
+General Notes
+
+string1 - latch link load connectivity project
+
+***A theoretical exercise only - ideas and code available here form part of proof of concept***
+
+Reference point : https://en.wikipedia.org/wiki/Internet_Protocol
+
+Principle : intercept sort filter feed (adapt/modify/obfuscate)
+
+
